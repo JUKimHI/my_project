@@ -12,8 +12,8 @@ st.markdown("""
 """)
 
 # 데이터 파일 경로
-CSV_FILE = '../data/합계출산율.csv'  # CSV 파일 경로
-GEOJSON_FILE = '../data/all_regions_2.json'  # GeoJSON 파일 경로
+CSV_FILE = './data/합계출산율.csv'  # CSV 파일 경로
+GEOJSON_FILE = './data/all_regions_2.json'  # GeoJSON 파일 경로
 
 # 데이터 읽기
 try:
